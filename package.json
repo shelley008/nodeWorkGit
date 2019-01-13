@@ -1,0 +1,14 @@
+{
+  "name": "nodework",
+  "version": "1.0.0",
+  "description": "shelley nonde",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "hua",
+  "license": "MIT",
+  "dependencies": {
+    "string-width": "^3.0.0"
+  }
+}
