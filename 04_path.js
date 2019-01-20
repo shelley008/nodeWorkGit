@@ -21,7 +21,7 @@ console.log(path.dirname(__filename))
 
 
 //获取文件的扩展名
-console.log(path.extname('a.js'))
+console.log(path.extname('aa.js'))
 
 
 //合并路径

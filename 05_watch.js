@@ -5,7 +5,7 @@ let watcher = fs.watch(__dirname)
 
 //监听改变的事件
 watcher.on('change',function(eventType,filenNme){
-    console.log('change: ',eventType,filenNme)
+    console.log('change1: ',eventType,filenNme)
 })
 
 //关闭监听
