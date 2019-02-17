@@ -9,6 +9,7 @@
   "author": "hua",
   "license": "MIT",
   "dependencies": {
+    "connect": "^3.6.6",
     "string-width": "^3.0.0"
   }
 }
